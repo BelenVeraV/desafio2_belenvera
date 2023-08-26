@@ -1,0 +1,49 @@
+body{
+    background-color: #f7cef3;
+    text-align: center;
+}
+
+
+
+.manicure .name{
+    position: absolute;
+    top: 150px;
+    left: 270px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.manicure .subn{
+    position: absolute;
+    top: 190px;
+    left: 270px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.nails{
+    padding-right: 25%;
+}
+
+.nails img{
+    display: inline-block;
+    margin-left: 1%;
+    margin-top: 6%;
+}
+
+.nails p{
+    display: inline-block;
+    margin-left: 1%;
+    margin-top: 15%;
+    position: absolute;
+}
+
+.redes{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
